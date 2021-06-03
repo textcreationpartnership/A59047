@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sad and lamentable case of Protestants under the government of a popish prince which must be expected when they are subjects to such an one.</title>
+         </titleStmt>
+         <extent>Approx. 89KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59047</idno><idno type="EEBO-CITATION">13035292</idno>
+  <idno type="VID">96816</idno>
+  <idno type="EEBO-PROQUEST">2240857822</idno>
+  
+            <idno type="STC">Wing S238A</idno>
+            <idno type="STC">ESTC R17091</idno>
+            <idno type="OCLC">13035292</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96816)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 399:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sad and lamentable case of Protestants under the government of a popish prince which must be expected when they are subjects to such an one.</title>
+               </titleStmt>
+               <extent>[2], 34 [i.e. 36] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonas Hyther,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature.</term>
+               <term type="topical_term">Protestants --  England.</term>
+               <term type="topical_term">Church and state --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96816:1"/>
+            <pb facs="tcp:96816:1"/>
+            <p>THE <hi>Sad and Lamentable</hi> CASE OF PROTESTANTS Under the GOVERNMENT OF A Popish Prince.</p>
+            <p>Which must be Expected when they are <hi>Sub<g ref="char:EOLhyphen"/>jects</hi> to such an One.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Jonas Hyther.</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96816:2"/>
+            <pb n="1" facs="tcp:96816:2"/>
+            <head>The Sad and Lamentable Case of <hi>Protestants</hi> under the Government of a <hi>Popish Prince.</hi>
+            </head>
+            <p>THe Case of <hi>Protestant</hi> Subjects must be inevitably miserable and grievous under the Government of a <hi>Popish</hi> Prince, nothing more plain, nothing more obvious to the Sense and Reason of Men; it is as perspicuous, that under such a dispensation of Government, <hi>Protestants</hi> must be miserable, as to all Sence and Reason their Doctrin of <hi>Transubstantiation</hi> is manifestly nonsensical: Whether we consider it under any of these Heads; <hi>viz.</hi> From the Prin<g ref="char:EOLhyphen"/>ciples of the Church of <hi>Rome;</hi> from former Experience and Proof, and from the Spurrings on of Self-Interest and Designs.</p>
+            <p>From the Principles of the <hi>Romish</hi> Church, such a Prince must not be benign to Heretical Subjects, for thereby he renders himself liable to the lash and Censure of the Church; a Roaring Bull of Excommunication may be dangerous of devouring Him: He by favouring <hi>Protestants,</hi> becomes treacherous to his own Principles, in siding with those which stand in a compleat op<g ref="char:EOLhyphen"/>position to the Doctrin and Interest of that Church: As He is obliged by the Principles of the <hi>Romish</hi> Communion to adhere to all the Tenents of that Church, so certainly is He obliged by his Office and Power to Extirpate all Dissenters from that Communion; else He is but an half Son of their Church and a very sluggish and useless Instrument for Propogating their Inte<g ref="char:EOLhyphen"/>rest, yea and is in danger of being Deposed by the Popes Com<g ref="char:EOLhyphen"/>mand, for neglect of his Duty and falseness to his Trust. Now if by favouring <hi>Protestants,</hi> such a Prince is not true to the Principles of that Church whereof he professes himself a Member, but renders himself Obnoxious to the Lash of Ex<g ref="char:EOLhyphen"/>communication, and the Censure of the Church, as also to be despised as an useless sluggish Tool, unfit for any Work; yea in daily danger of being deposed by an Edict from his Holi<g ref="char:EOLhyphen"/>ness; which certainly are not eligible by a Prince that espouses the <hi>Romish</hi> Religion. If this be the Danger such a Prince in<g ref="char:EOLhyphen"/>curs by his default of Persecuting <hi>Protestants</hi> with the utmost Rigour and Violence; then by no means can such Subjects be safe and happy under the Government of such a Prince, then is it the greatest Folly and self-flattery for any to expect a quiet
+<pb n="2" facs="tcp:96816:3"/>possession of their Liberties, and a safe exercise and free enjoy<g ref="char:EOLhyphen"/>ment of the <hi>Protestant</hi> Religion under the administration of a <hi>Popish</hi> Government.</p>
+            <p>And as a <hi>Popish</hi> Prince is obliged by the Principles of the Church of <hi>Rome,</hi> and the Doctrine of that Religion which he professes, to persecute with greatest vigour, and to extirpate with most violent Cruelty those of his Subjects which adhere to the <hi>Protestant</hi> Religion; and therefore can no hopes of Peace and Safety be entertain'd, that <hi>Protestant</hi> Subject, should enjoy them under a <hi>Popish</hi> Prince. So manifestly will it appear from the Presidents of former time, (Matter of Fact being the most convincing and cogent Argument in the World) to omit Re<g ref="char:EOLhyphen"/>lations and Circumstances, it will appear if we consider <hi>Ju<g ref="char:EOLhyphen"/>lian</hi> the Apostate's Time, or under the Reign of <hi>Ferdinand</hi> King of <hi>Bohemia,</hi> the then Case of <hi>Protestants,</hi> what shall we need to instance persons or times, or relate their Cruelties, they are manifestly known; and so well known, that here to relate them would cause a Voluminous Bulk instead of a Com<g ref="char:EOLhyphen"/>pendious Treatise and Discourse. But not to omit Q. <hi>Mary,</hi> the Modern <hi>Popish</hi> Persecution; with what cruelty and inhu<g ref="char:EOLhyphen"/>manity were most Learned and Pious <hi>Protestants</hi> of that Age treated, that refused to receive the <hi>Mark of the Beast,</hi> or <hi>to Worship his Image?</hi> Who were committed to the merciless Flames, and their Bodies subjected to the Mercy of those whose <hi>tender Mercies are Cruelty.</hi> Now if from the Precedents of for<g ref="char:EOLhyphen"/>mer Ages, we can't find any other than merciless Cruelty ex<g ref="char:EOLhyphen"/>ercised against <hi>Protestants</hi> under a <hi>Popish</hi> Government, then what thinking Man in his Wits can expect otherwise <hi>in futuro.</hi> For the Principles of Malice and Cruelty are incorporated in the <hi>Romish</hi> Doctrine; by virtue whereof every <hi>Papist</hi> is in duty oblig'd to extirpate <hi>Protestantism,</hi> as far as he can: so that most like of any to Devils are the <hi>Popish</hi> Party, in that when they do not hurt and mischief, it is because they cannot, not because they will not: But when Power was in their hands to hurt, they never spared any that refused to revolt from the <hi>Doctrine</hi> of the Scripture to their own corrupt <hi>Doctrines</hi> and <hi>Traditions:</hi> this is essential to their <hi>Doctrines</hi> and <hi>Principles;</hi> therefore for any to expect, that they should be merciful to <hi>Protestants,</hi> when they have Rule and Power in their hands, is a foolish and ungrounded hope: unless we could reasonably
+<pb n="3" facs="tcp:96816:3"/>expect they would prove false to their own Principles, and deny the bloody Tenents of their own Religion. But Oh how greatly will their Malice and Blood-thirstiness swell and encrease by the Commands and Countenance of a <hi>Popish</hi> Prince! how miserably will the <hi>Protestants</hi> groan under those whose Nature is Cruelty and Tyranny, when a <hi>Popish</hi> King and Government both sets them on and encourages them!</p>
+            <p>It is also most perspicuously to be prov'd that <hi>Protestants</hi> can't be safe in their <hi>Religion</hi> or <hi>Liberties</hi> under the <hi>Administration</hi> of a <hi>Popish Government,</hi> by reason of the Spurrings on to <hi>Cruelty</hi> against them by Self-interest and Designs; every Man is inclined to carry on his own Interest and designs: hence is it that ac<g ref="char:EOLhyphen"/>cording to the different Inclinations of Men are different <hi>Aims</hi> and <hi>Projects</hi> violently pursued: So a Covetous Man is insa<g ref="char:EOLhyphen"/>tiably desirous of Gold, nothing can satisfie him, but always cries out in his <hi>greedy</hi> and <hi>avaritious Desires,</hi> More, more; is restless in his <hi>designs</hi> for <hi>Wealth.</hi> The proud Man likewise spares not either for <hi>pains</hi> or <hi>cost</hi> to gratifie his <hi>pride</hi> and <hi>ambi<g ref="char:EOLhyphen"/>tion;</hi> and so likewise in the other humours, Lusts and Interests of Men. The <hi>Popish Party</hi> aim that all Men should bow to them; that all Men should <hi>implicitly</hi> believe in their Church: they would confine the <hi>Catholick Church</hi> to the <hi>Church of Rome,</hi> and Exclude all <hi>Dissenters</hi> from their <hi>Communion</hi> from a Capa<g ref="char:EOLhyphen"/>city of <hi>Salvation,</hi> under the <hi>dreadful Nomination</hi> of <hi>Hereticks;</hi> which <hi>great Ʋncharitableness</hi> is grounded on <hi>base</hi> and <hi>sinister Ends,</hi> as the <hi>propagating</hi> their <hi>Cause</hi> or <hi>Religion,</hi> which because Men naturally crave some <hi>Figg-leaves</hi> to cover their <hi>Nakedness,</hi> some cover of <hi>Religion,</hi> but by reason of their <hi>licentious minds</hi> and <hi>practices</hi> can't stoop to the Life of it as laid down in the <hi>Word of God:</hi> hence elect and embrace such a <hi>Religion</hi> which best dispenseth with their <hi>voluptuous Minds</hi> and <hi>practices;</hi> and therefore <hi>liking it,</hi> by reason it gives <hi>Toleration</hi> to their <hi>Enormities</hi> and <hi>Debaucheries;</hi> and is the most <hi>conformable</hi> and <hi>agreeable</hi> with a <hi>voluptuous Life,</hi> cannot endure that herein their Lusts should be cross'd and disappointed: so because they <hi>love Darkness, therefore hate to come to the Light, lest their Works should be made manifest.</hi> Or because their <hi>proud Minds</hi> can't submit to <hi>Divine Institution</hi> in <hi>Worship,</hi> through the ex<g ref="char:EOLhyphen"/>cess of <hi>pride</hi> and <hi>self-sufficiency:</hi> therefore cannot abide but that <hi>humane Injunction</hi> and <hi>Traditions</hi> of their own should be
+<pb facs="tcp:96816:4"/>mix'd, yea and have the preheminence in <hi>Worship</hi> above <hi>Di<g ref="char:EOLhyphen"/>vine Institution:</hi> And because they may find this <hi>Religion</hi> to be a <hi>Golden Religion,</hi> for though no <hi>Godliness</hi> is to be found in it, yet much gain, (that is) not the <hi>gain of Godliness,</hi> but <hi>filthy Lucre:</hi> And these Men have no other <hi>designs</hi> than <hi>worldly promotion</hi> and <hi>full. Coffers,</hi> which the <hi>Jesuits, Priests,</hi> &amp;c. most vehemently pursue, therefore will not forbear <hi>violently</hi> to <hi>ride</hi> over <hi>Protestants,</hi> and <hi>triumph</hi> in their <hi>ruin,</hi> being spurr'd on by that which is most suitable to their <hi>avaritious Minds.</hi> Besides, though I doubt not, by most of the <hi>Jesuits, Popes Agents,</hi> &amp;c. their own <hi>ends</hi> and <hi>advancement</hi> is observed, yet also some <hi>homage</hi> they pay to the <hi>Pope,</hi> for his <hi>Coffers</hi> must be fill'd, his <hi>Commands</hi> must be obeyed: then must the <hi>Estates</hi> of <hi>Protestants</hi> fill his <hi>Coffers;</hi> then must their <hi>Lives</hi> be sacrific'd to his <hi>Commands:</hi> which when <hi>power</hi> is in their hands, it has already been proved, they will never spare, and especially ha<g ref="char:EOLhyphen"/>ving the <hi>Commands</hi> and <hi>Countenance</hi> of a <hi>Jesuited Prince.</hi>
+            </p>
+            <p>Now if the <hi>Popish Party</hi> aim at an <hi>universal Homage,</hi> to them when they are <hi>predominant,</hi> if that <hi>Religion</hi> which they adhere to be so pleasing, because it so well suits to their <hi>licen<g ref="char:EOLhyphen"/>tious minds</hi> and <hi>practices,</hi> and are therefore <hi>incited</hi> with greatest <hi>violence</hi> and <hi>force</hi> to <hi>maintain</hi> it against that <hi>Religion</hi> which stands in a <hi>diametrical opposition</hi> to it, either in <hi>denying</hi> the same <hi>Libertinism,</hi> or not <hi>receiving</hi> those <hi>Injunctions</hi> and <hi>Tradi<g ref="char:EOLhyphen"/>tions</hi> of their own which they <hi>impose:</hi> Or if it be a <hi>bloody Re<g ref="char:EOLhyphen"/>ligion,</hi> which by <hi>Blood</hi> and <hi>Cruelty</hi> does fill their <hi>Coffers,</hi> and they Men of such like <hi>Designs,</hi> and if spurred on by the <hi>Com<g ref="char:EOLhyphen"/>mands</hi> and <hi>Countenance</hi> of a <hi>Jesuited Prince,</hi> this their <hi>Malice</hi> and <hi>Cruelty</hi> will be <hi>fomented,</hi> and their <hi>Rage</hi> have a <hi>free Course:</hi> then cannot <hi>Protestant Subjects</hi> live <hi>quietly</hi> and <hi>safely</hi> under a <hi>Popish Government,</hi> but must <hi>expect</hi> all the <hi>Dispensations</hi> of <hi>Cruelty, Misery,</hi> and <hi>lamentable Oppression.</hi>
+            </p>
+            <p>For, omitting all the <hi>Misery</hi> and <hi>Sorrow</hi> that will befal their <hi>Persons</hi> and <hi>Estates,</hi> omitting their <hi>Houses</hi> being <hi>plundered,</hi> their <hi>Throats cut,</hi> their <hi>Estates sequestred,</hi> their <hi>Wives ravished,</hi> their <hi>Children inhumanly butcher'd</hi> before their Faces: That which is worse than these <hi>Temporal Evils,</hi> their <hi>Religion</hi> will be pull'd down, and their surviving Posterity (which may perhaps escape the hands of <hi>Temporal Cruelty</hi>) be brought under <hi>Spiritual Cap<g ref="char:EOLhyphen"/>tivity,</hi> and bare the Yoke of <hi>Popery,</hi> such a <hi>Yoke that neither we
+<pb facs="tcp:96816:4"/>nor our Fathers were able to bear:</hi> whence will flow abundance of Temporal Evils, for as the <hi>Protestant Religion,</hi> as now established by Law, includes many Temporal Blessings, as Enjoyment of Right and Property, a quiet possession of a Man's Estate, his Wife, Children, so <hi>Popery</hi> brings in with it many Temporal Evils, as Arbitrary Government, Cruelty and Oppression: But the Spi<g ref="char:EOLhyphen"/>ritual Evil is great and damnable, and cutting to the heart of honest <hi>Protestants,</hi> that the Children of their own Bowels should become Vassals to the <hi>Popish</hi> Religion, and that they should leave them behind them to be Educated in that Profession of Religion which will lead them to the Devil. Children all called in Holy Writ <hi>the Heritage of Fathers,</hi> and therefore dear and precious to them; therefore grievous must be the Considera<g ref="char:EOLhyphen"/>tion of Parents, to think that their surviving Posterity should be Vassals to Misery and Sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very both Temporal and Spiritual; But so they must be under a <hi>Popish</hi> Government: therefore most sad and lamentable will the Condition of such Posterity be under such a Government, and dreadful must the Consideration of this be to thinking Parents. That Children are naturally dear to their Parents, appears by that Instance of Holy Writ above Cited, <hi>viz.</hi> That <hi>Children are the Heritage of Fathers,</hi> &amp;c. That they must be miserable and subjected to Evils, both Tem<g ref="char:EOLhyphen"/>poral and Spiritual, under the dispensation of a <hi>Popish</hi> Govern<g ref="char:EOLhyphen"/>ment, appears from the Principles of that Government, <hi>viz.</hi> Arbitrary governing, and consequently Slavery, and not a certain Legal possession of a man's Property. But as to the Spiritual Evils which are greatest, because they respect the Soul, and the permanent condition of man in a future State, are therefore of greatest importance, and consideration. That Religion which is Orthodox and Consonant to the Scriptures, is the true Religion: But the Popish Religion opposes the Rule of Scripture, it therefore is false. The sum of Ortho<g ref="char:EOLhyphen"/>dox Faith and true Religion is to accept of that Savi<g ref="char:EOLhyphen"/>our which God hath propounded, and in the way he hath ap<g ref="char:EOLhyphen"/>pointed for the Salvation of men; But the Papists neither ac<g ref="char:EOLhyphen"/>cept of that Saviour which God hath propounded, nor in the way which he hath appointed for the Salvation of men, therefore they deny the sum of Orthodox Faith, and true Religion.</p>
+            <p>That the sum of Orthodox Faith, <hi>&amp;c.</hi> is to accept of that Saviour which God hath propounded, appears from that Scrip<g ref="char:EOLhyphen"/>ture,
+<pb n="4" facs="tcp:96816:5"/>
+               <hi>viz. There is no other Name given under Heaven whereby Men can be saved but only that of Jesus Christ.</hi> He is therefore the only Saviour, and there is none besides Him, and <hi>I am the Way, the Truth, and the Life. The Way to the Father,</hi> &amp;c. God hath appointed no other Way but by him <hi>Humane Salvation.</hi>
+            </p>
+            <p>Now the <hi>Papists</hi> neither accept of that Saviour, for they reject him, by assuming themselves many Mediators, as the Virgin <hi>Mary,</hi> the Intercession of Saints, which is the peculiar Office of a Saviour: Neither do they accept him in the way God hath appointed, for they mix the Merit of their own Works with the <hi>Satisfaction of Christ,</hi> and therefore render the Merits of Christ on none effect, and stand to Justification by the Law, which <hi>Paul</hi> plainly declares in <hi>Rom.</hi> 3.10. <hi>As many as are of the Works of the Law, are under the Curse: for it is written, Cursed is every one that continueth not in all things which are written in the Book of the Law to do them.</hi>
+            </p>
+            <p>Now that Religion which supposes the Fundamental Truths of Chri<g ref="char:EOLhyphen"/>stianity, renders the Professors thereof and Adherers thereunto, incapable of Salvation, and obnoxious to eternal ruin.</p>
+            <p>The Doctrin of the <hi>Papists</hi> opposes the Fundamental Truths of Chri<g ref="char:EOLhyphen"/>stianity, in denying to accept of that only Saviour in the way which God hath propounded in his Word; therefore the Doctrin of the <hi>Papists</hi> ren<g ref="char:EOLhyphen"/>ders the Professors thereof obnoxious to eternal ruin.</p>
+            <p>So if the Comfort of good Parents is bound up in their Children, then certainly that the wholsom Principles of the <hi>Protestant</hi> Religion should be rooted up by <hi>Popish Priests, Jesuits,</hi> &amp;c. and instead thereof be sown the Tares of damnable <hi>Popish</hi> Principles, which render the Professors thereof obnoxious to eternal ruin; the serious consideration hereof would cause them to cry out <hi>Proh Dolor! Proh Gemitus!</hi>
+            </p>
+            <p>But for a further progress in this subject, and to further demonstrate the miserable state of <hi>Protestant</hi> Subjects, when under the Government of a <hi>Popish</hi> Prince; we will proceed to plainly discuss it by way of Conference, between those two Capital Places <hi>England</hi> &amp; <hi>Rome;</hi> and so enters <hi>Rome.</hi>
+            </p>
+            <sp>
+               <speaker>Rome.</speaker>
+               <p>It is of much wonder to us, that the Fears and Jealousies of a <hi>Popish</hi> Prince should put you <hi>Protestants</hi> into such a Consternation.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>It is no wonder, since your Principles are imbred and connatural to you, obliging you in point of Duty and Merit to the perpetration of all the most barbarous Cruelty against <hi>Protestants.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Our Principles are so esteemed of you <hi>Protestants,</hi> rather out of Prejudice and Corrupt Opinion than from real Ground.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No, it is sufficiently evident from Reason and History, which give sufficient testimony of the wickedness of your Principles, from the Cruel<g ref="char:EOLhyphen"/>ty and Barbarity of your Practices.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>But that History is false and corrupt and full of Prejudice, and therefore the Authors thereof not to be regarded.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Nay, they are Authentick Authors, and were Men of known In<g ref="char:EOLhyphen"/>tegrity and Uprightness, haters of false History, which is a sufficient In<g ref="char:EOLhyphen"/>ducement to the most wise and prudent of our Age both to believe them, and to fear the like under the like Circumstances.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:96816:5"/>
+               <speaker>Rom.</speaker>
+               <p>Nay, truly I rather judge 'em to be Persons ill affected and discontent, full fraught with Jealousies, and needless Surmises, which proceeds from the timorousness of their Natures, together with the groundless Antipathy that they have to the Roman Church.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why do you think so?</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Pray how can I, or any Rational Man, judge otherwise, but that they are Persons of the greatest enmi<g ref="char:EOLhyphen"/>ty to Holy Mother Church, and would, if they could, let out her very Bowels, being so extreamly incensed against her; when with open Mouth, they lay to her Charge, the perpetration of the most abominable Villanies, and Sa<g ref="char:EOLhyphen"/>vage Cruelties, which the Devil or Man can invent; nay, and those too, which are indeed contrary to the very Principles of Morality and Goodness; nay, even to the destruction of them: Which is indeed against common Reason, as I think, that any Society of Men should so far degenerate from the Principles of Goodness, and to act so contrary to that indelible Rule of Life, the Moral Law, ingraven upon their Hearts and Consciences, by the Finger of Heaven, as to become even worse than the fiercest of Savages.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>As strange as you think it, yet it is sufficiently demonstrated to be undeniably true of the Proselytes of the Romish Church.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Pray how doth it appear to be such an undenia<g ref="char:EOLhyphen"/>ble Truth?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>By the many, most Cruel, and Treacherous Massa<g ref="char:EOLhyphen"/>cres of millions of Poor, Innocent and Godly Persons, in all Ages, since that Mother of Abominations, the great Antichristian <hi>Papa,</hi> has usurped the Title of Universal Mo<g ref="char:EOLhyphen"/>narch over the Face of the whole Earth; neither has this Monster of Monsters rested in the bare Title, but has likewise sufficiently endeavoured to make it good by his most subtle workings and underminings, in Plotting and Contriving the Ruin of Kings and Princes, by Poy<g ref="char:EOLhyphen"/>son, Stabing, or the like Artificial Cruelties; as also the de<g ref="char:EOLhyphen"/>struction of Kingdoms, Countries, Cities and Nations, are
+<pb n="6" facs="tcp:96816:6"/>his daily Meditation, either by Burnings, Devastations, Depopulations, or such like Romish Arts.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>If all this which you say were true, I think there's no Man, which has any sense of Religion, or sincere Mo<g ref="char:EOLhyphen"/>rality upon his Spirit, but must needs have a most irre<g ref="char:EOLhyphen"/>concileable enmity to the Romish Church, its Professors be<g ref="char:EOLhyphen"/>ing so debauch'd, and drencht in such wicked Practices, as you relate.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Well then, I hope you are satisfied, that it is not for no reason, that there are such Enmities between the Protestants and Papists.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Yes truly, I am, if all these things which you reckon up against the Papists were true; but that you can hardly make me believe.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>That is because you are prejudiced in your Judg<g ref="char:EOLhyphen"/>ment, being immerst in their false Principles, and Cor<g ref="char:EOLhyphen"/>rupted by Self-interest, and some secret advantage or other, which that Religion affords you, either for some worldly advantage, or else to quiet an offended Consci<g ref="char:EOLhyphen"/>ence, at some committed Sin; or else with more ease to commit some Sin, which by the strength of Corrup<g ref="char:EOLhyphen"/>tion you are sollicited to; for as you know full well, your Religion affords some groundless helps, and silly shifts for all these respects.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>You are very expert methinks, in censuring and inveighing against those things which you so little un<g ref="char:EOLhyphen"/>derstand.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Understand! it's no hard matter, truly, as I con<g ref="char:EOLhyphen"/>ceive, for one but of the meanest Capacity, so that he be not overswayed with Self-interest, and is unprejudiced, to understand your Principles to be most egregiously Corrupt, Frivolous, and Insignificant, as also most perni<g ref="char:EOLhyphen"/>cious, and destructive of the very Principles of true and sincere Goodness.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>As for the foundness and goodness of our Prin<g ref="char:EOLhyphen"/>ciples, as also their agreement with the true sense and meaning of Holy Writ, I shall not now stand to dispute about, seeing you are so firmly riveted in your Judg<g ref="char:EOLhyphen"/>ment
+<pb n="7" facs="tcp:96816:6"/>against Holy Mother Church, that its impossible to make you abandon your Principles, even by the strongest, and most prevailing Arguments.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>It is indeed your Wisdom to forbear Disputes, when by that means your pernicious Errours are in danger to be unravell'd, and your self put to open shame; for you can bring no Arguments, from which we cannot raise more to your greater Confutation and Confusion; which is as much as to say, those very Arguments, which with so much subtlety and cunning you seem to level against us, do rebound to your greater hurt and mischief, and so thereby your selves are made the Instruments of your own ruin.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Well then, to wave Disputes about Religion, as to its Principles and Constitution, let us descend to some Conference about the business first proposed.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>What is that, I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why, it is this, <hi>viz.</hi> Whether Protestant Subjects may enjoy their just Rights, Properties, and Liberties, as also their Religion, and whole Constitution of Prote<g ref="char:EOLhyphen"/>stant Government, under the Government of a Popish Prince.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>And what's your Opinion, I pray you, of this matter?</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Truly, as for my part, my Opinion is, that you may enjoy the whole Constitution of Protestant Go<g ref="char:EOLhyphen"/>vernment under a Prince, which, as to his own private Sentiments, is a Papist.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Ay, but I pray God deliver us from such a Go<g ref="char:EOLhyphen"/>vernour.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why, as I said before, I verily believe it's nothing but prejudice to our Religion, and needless Fears and Jealou<g ref="char:EOLhyphen"/>sies, which raises all this disturbance and commotion in Protestant Breasts, at the very thoughts of a Popish Prince.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>A Popish Prince, truly, does not without just cause strike terror to Protestant Minds, having had such sad and woful experience of the merciless Cruelty and Tyranny of Popish Governours.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:96816:7"/>
+               <speaker>Rom.</speaker>
+               <p>Why, what of all that? the past actions of Tyran<g ref="char:EOLhyphen"/>ny and Cruelty, of foregoing Princes or Governours, lay not a necessity upon succeeding Princes of the same Re<g ref="char:EOLhyphen"/>ligion (in case any such should happen) to act the like Tyrannick Cruelty upon Protestant Subjects, for it is not so much the Religion of a Prince, as his Natural Dispo<g ref="char:EOLhyphen"/>sition to acts of truly commendable Goodness or Benefi<g ref="char:EOLhyphen"/>cence, or to the Acts of Cruelty and Injustice; and therefore the Natural Temperature and Conditions of Princes, are chiefly to be regarded, in cases of their more Mild, or Rigid and Severe behaviour toward their Subjects.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>What say you, that Religion is not so much to be regarded in a Prince, as to oversway his Propensions to Good or Evil?</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Yes, that I do, and dare avouch, that a Prince of the <hi>Roman</hi> Religion may be as truly vertuous, and act as great and worthy Acts of Justice, Equity and Right towards his Protestant Subjects, in respect of their just Rights, Properties and Religion, according to their Consti<g ref="char:EOLhyphen"/>tuted Government, as any Prince of the same Protestant Religion with his Subjects.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>I deny, that Religion has not the greatest Influ<g ref="char:EOLhyphen"/>ence upon the Actions of Princes, or Governours, to<g ref="char:EOLhyphen"/>wards their Subjects.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Truly, I cannot deny, but that Religion has a great influence to Regulate the disorderly Affections and unruly Passions of all sorts of Persons, and so also of Princes; but then I say, Affections may be so petulant, and Passi<g ref="char:EOLhyphen"/>on so strong, as to carry him beyond the Laws of Ver<g ref="char:EOLhyphen"/>tue, and acts of true Morality; nay, possibly unto such actions, as he may utterly abhor and abominate to com<g ref="char:EOLhyphen"/>mit, in his more sedate Temper, and calmeness of Spi<g ref="char:EOLhyphen"/>rit; and if it be so, I see no Reason why the enormity of his Actions should be laid upon, or attributed to Reli<g ref="char:EOLhyphen"/>gion, as if that was the chiefest Incentive, Instigator, and Propagator of his extreamest Villanies, and most Inhumane Barbarities; this indeed is to make Religion an Instrument
+<pb n="9" facs="tcp:96816:7"/>of the greatest Evil, and most mischievous and destru<g ref="char:EOLhyphen"/>ctive to the very Cardinal Vertues, and Seeds of Mora<g ref="char:EOLhyphen"/>lity, planted in our Natures; which is to destroy natural Affection, and to frustrate the Design of our Great Crea<g ref="char:EOLhyphen"/>tor, in giving us a Being in this visible World.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>It is indeed a Truth no less experienced than cer<g ref="char:EOLhyphen"/>tain, that Religion is either the Cause of the greatest Good and Benefit to Mankind, or of the greatest Evil and Mischief.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why, how comes it to pass, that Religion is such a Promoter of all manner of Disorders, and Mischiefs, and such a disturber of the Peace and Tranquility of King<g ref="char:EOLhyphen"/>doms, Countries, Cities and Nations; whereas Religion was certainly first Instituted, to be a means to Regulate the extravagances of furious and boyling Passions, and to mitigate the inordinate Affections with Divine le<g ref="char:EOLhyphen"/>nitives, keeping our craving Appetites within the bound of Moderation and Sobriety?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>You say right indeed, Religion was first designed by Almighty God, to be a Promoter of true and real Goodness, as also a means to preserve the Peace and Tran<g ref="char:EOLhyphen"/>quility of Kings and Kingdoms, Church and State; and it is certainly so in reality, where the purity of it is kept according to its first Institution by Almighty God, and then it is indeed the chiefest good and benefit to man<g ref="char:EOLhyphen"/>kind.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why, certainly, there's no Religion that gives Al<g ref="char:EOLhyphen"/>lowance to Vice and Wickedness, and so to the Perpetra<g ref="char:EOLhyphen"/>tion of all manner of Mischiefs, and Cruelties, for that is contrary to the very being of Religion?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Truly, I cannot but confess, that all manner of Religion is taken up upon the account of being the means of attaining the greatest good to its Professors, and its Principles are asserted accordingly by its Professors, as most conducible to these good ends; and so all Religion goes under the colour of some pretended goodness, though in the mean time it be made up of nothing but very Wick<g ref="char:EOLhyphen"/>edness, Injustice, and Tyranny, being the fauter and fo<g ref="char:EOLhyphen"/>menter of all Evil.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:96816:8"/>
+               <speaker>Rom.</speaker>
+               <p>I acknowledge indeed, that the most mischievous Designs are carried on for, and under the colour of Religi<g ref="char:EOLhyphen"/>on; but then those wretched Varlets, which carry on such Designs, make the Name of Religion only a stalking Horse, whereby they may with the more ease insinuate into the Vul<g ref="char:EOLhyphen"/>gar, and so by that means bring their wicked Enterprises to pass; whereas, in the mean time, nothing less than Religion is minded; but all this while their own Self-inte<g ref="char:EOLhyphen"/>rest is the <hi>primum mobile,</hi> and chiefest Promoter of this their extreamest Villanies.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why, and is it not easie, think you, to demonstrate, that the very fundamentals of your Religion are Self-in<g ref="char:EOLhyphen"/>terest, Pride, and Covetousness; and consequently promo<g ref="char:EOLhyphen"/>ted by Fraud, Deceit and Cruelty?</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>No, truly: I think in my Conscience, that it is far otherwise with our Religion; and that such Princi<g ref="char:EOLhyphen"/>ples cannot possibly be demonstrable of our Religion, and therefore I think your fearful dreading of a Prince, that has received it, is bootless, and also very need<g ref="char:EOLhyphen"/>less.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No, no, the very Report of the Government of a Prince, tainted with the Corrupt Principles of Popery, is enough to terrifie the stoutest Protestant; though ra<g ref="char:EOLhyphen"/>ther than he will submit so far, as to entertain the Ro<g ref="char:EOLhyphen"/>mish Religion, he is ready to Sacrifice his very Life, and all that is dear to him, so far is he convinced of its con<g ref="char:EOLhyphen"/>trariety, and inconsistency with the Glory of Almighty God.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Alas, alas! poor Fearful, Pusillanimous, Suspici<g ref="char:EOLhyphen"/>ous and Jealous Creatures, afraid of any thing, but what looks like themselves.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Nay, nay, you may say what you please, we know too much of your Religion, to be deluded by dai<g ref="char:EOLhyphen"/>ly flattery into false and fatal Security, and so to be lull'd asleep in the midst of ruin.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Ruin, why do you talk so much of Ruin? I for my part see nothing less intended by any Popish Prince.</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:96816:8"/>
+               <speaker>Eng.</speaker>
+               <p>And why is that I pray you? is it not because you are in your own Element, and so cannot judge of the Enormity of any action, because your Principles are enor<g ref="char:EOLhyphen"/>mous.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Ay, ay, I know that's all the tone of Persons dis<g ref="char:EOLhyphen"/>affected to Holy Mother Church; and it is indeed usual for men to hate and descant upon one anothers Actions, because of the contrariety of their Opinions.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Ay, that is indeed very true.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Well, why then are you so incensed against our Religion, above any other Sects, seeing it is common to all those of contrary Opinions to hate one another?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why, because your Religion has been the great<g ref="char:EOLhyphen"/>est promoter of the most horrid Cruelties, Barbarities and Mischiefs, that ever happened since the World began, and they that are touched with a sence of it, may be justly feared as the greatest Enemies to Humane Society.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Say you so, Sir; then it seems you make the Ro<g ref="char:EOLhyphen"/>mish Church a meer Monster, and its Principles contra<g ref="char:EOLhyphen"/>ry to the very light of Nature?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Truly, I verily believe, that many Heathens indu<g ref="char:EOLhyphen"/>ed only with Natural light, would utterly abhor and abo<g ref="char:EOLhyphen"/>minate such monstrous Wickedness and Cruelties, which are daily practised and authorised by your Church.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>That's strange indeed, that a Church should o<g ref="char:EOLhyphen"/>penly practise and authorise Wickedness, when the Design of a Church is solemnly to Adore and Worship God, who is the chiefest Good, yea even Goodness it self; and so consequently a perfect hater of all manner of wicked Actions; but the Authority of the Church, is countenan<g ref="char:EOLhyphen"/>ced and encouraged by this chiefest of good, who can by no means allow of such wicked Practices as you reckon up, and therefore its Professors cannot be said to autho<g ref="char:EOLhyphen"/>rise Wickedness, Mischief, and Cruelty.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Nay, but here lies the misery of your Church, that it has adopted that into the Nature of Goodness, which is indeed nothing less; for it esteems the most bar<g ref="char:EOLhyphen"/>barous Acts of Cruelty, nothing but the effects of great Piety, and burning Zeal for the Glory of God.</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:96816:9"/>
+               <speaker>Rom.</speaker>
+               <p>Why? I know you cannot deny, but that it is always lawful and commendable to be zealous in a good Cause?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>That truly I cannot deny; but then this Zeal is to be regulated by the Laws of Justice and Morality, and not to become savage furiousness, by Acts of extreamest Cru<g ref="char:EOLhyphen"/>elty and Mischief.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>God forbid, that the Sons of our Church should be Acted by such a blind Zeal, as to degenerate into the cruelest of Creatures.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Your Principles are indeed so Corrupt, that they are a sufficient excitement to any Man of your Perswasi<g ref="char:EOLhyphen"/>on, to undertake the wickedest enterprises, for the sake of Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why, cannot the Principles of true Goodness, Vertue, and Morality, restrain a Person from the unlawful Acts of Sin and Wickedness?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Yes, truly, if a Person will but mind the least pro<g ref="char:EOLhyphen"/>hibition of Natural Light, to Sin, Wickedness, and Cruel<g ref="char:EOLhyphen"/>ty, he may certainly be reduced to a Carriage harmeless enough.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why then have we, think you, cast off all atten<g ref="char:EOLhyphen"/>tion to the Dictates of Natural Conscience, true Vertue and Goodness?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Yes, I think so, and it evidently appears so, by your wicked, unlawful, and unjust Actions.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Unlawful, and unjust Actions, do you call them?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Yes, and deservedly too.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Alas! but you are mistaken, they are Acts of the greatest Justice, and consentaneous to the most strict Piety.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Ay, that's right indeed, now you have hit the Nail o'the Head.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why, do I say any thing, but what may be made evident to be an undeniable Truth?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Nothing but Truth, indeed, according to your false Principles.</p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:96816:9"/>
+               <speaker>Rom.</speaker>
+               <p>Well, let us see then how these false Principles, as you call them, will put a Prince upon acting Cruelty and Tyranny, upon you Protestant Subjects, even to the sub<g ref="char:EOLhyphen"/>verting of your Constituted Government and Religion, and to the spoiling you of your just Rights and Liber<g ref="char:EOLhyphen"/>ties; and all this notwithstanding his Natural propensity to Goodness and Clemency.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>It is indeed no hard matter to demonstrate, that when once Popery has got the ascendant in a Princes Breast, all Vertues must truckle to Religion, and become all Ser<g ref="char:EOLhyphen"/>vants, to attain those ends which it proposes, by what Un<g ref="char:EOLhyphen"/>lawful, Cruel, or Tyrannical means soever.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>No, but I'le never believe but a Prince of our Per<g ref="char:EOLhyphen"/>swasion may quiet himself with the exercise of his Religi<g ref="char:EOLhyphen"/>on in private, without altering the Form of the Constituted Protestant Religion, practised by his Subjects: for what need he care, so long as they live Peaceably and Loyally to his Person and Commands, according to the Protestant Laws? It will certainly be imputed to him, as an Act of the greatest Madness and Folly, to raise Tumults among his Loyal Subjects needlesly, when there's no fear of re<g ref="char:EOLhyphen"/>ceiving any harm, or the least injury from them.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No, no, this pace will not carry it, his Holy Father, the Pope, will not endure such an unactive Son.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>What would our Holy Father have this Prince to do, seeing he cannot but see it is for his Safety and Peace to continue the Constituted Protestant Religion undisturbed, as also the Princes Interest so to do?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>That's no matter to him, it's not for the Safety and Interest of Holy Mother Church, and consequently for his own, he being Head and Governour of the same.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>What must this Prince do then, to please this his Holy Father and Mother the Church?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>What must he do? Why he must be Active in pro<g ref="char:EOLhyphen"/>moting the Roman Cause; that is, to be industrious, using all the means that Religious Cruelty can any ways invent; to see her Dagon worshipped, and her Altars smoak, her Standard set up, and her Enemies defeated, and then at
+<pb n="14" facs="tcp:96816:10"/>length his Victorious Mother Church triumphant; and if he must do such things, what must become of the poor Prote<g ref="char:EOLhyphen"/>stant Church in the mean while, think you? Is not that <hi>Rome's</hi> implacable Enemy, and must not she be utterly ex<g ref="char:EOLhyphen"/>tirpated and ruined, and her Professors Massacred, to please and satisfie that great Whore, who so much thirsts for Pro<g ref="char:EOLhyphen"/>testant Bloud, and makes such great Acclamation of Joy and Gladness, to see all Protestant Churches and Governments lye goring and sweltring in Blood and miserable Confusion? And all this procured by her most wicked Emissaries.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>What need a King be so Ambitious and Careful of pleasing the Pope? Is not he Supream in his own Domini<g ref="char:EOLhyphen"/>ons and Countries?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No, I think not; your Holy Father has Usurpt a Power above Kings or Emperours, or the mightiest Poten<g ref="char:EOLhyphen"/>tates, having power to Depose 'em at his pleasure, if they Act not for, or contrary to the Laws, Edicts, or Injuncti<g ref="char:EOLhyphen"/>ons of Holy Mother Church.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Ay, but this is to make Kings and Princes, <hi>&amp;c.</hi> the meer Vassals of <hi>Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Yes, yes, they are no more?</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>What Prince then is so mad, as to entertain and own the Popish Religion, seeing thereby he introduces a Power above his own into his Dominions, and does continu<g ref="char:EOLhyphen"/>ally make himself liable to the Censure of the Church, and must undergo all the Severities she pleases to impose upon him, in case he transgress her most unjust Commands, even to the loosing of his Subjects from their Oaths of Allegi<g ref="char:EOLhyphen"/>ance to him, and so to deprive him of all his Royal Digni<g ref="char:EOLhyphen"/>ties, and at last of his Crown it self?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Truly one would think a Prince should rise with the greatest thoughts of Abomination and Indignation, against such a Religion that can divest him of all his Royal Prerogatives; but such is the bewitching Nature of Religi<g ref="char:EOLhyphen"/>on, being made up of such a plausible and sensual form in the manner of Worship, and promising Pardons for Sin committed, and Indulgences to commit Sin, and so quiet<g ref="char:EOLhyphen"/>ing the offended Conscience, and satisfying the inordinate
+<pb n="15" facs="tcp:96816:10"/>Appetites, Lusts and Passions; as also promising Eternal Rest and Happiness to all its obedient Observers of its Com<g ref="char:EOLhyphen"/>mands, so that its no hard matter to escape Eternal Tor<g ref="char:EOLhyphen"/>ments in that Region of Darkness, and gulf of endless Mi<g ref="char:EOLhyphen"/>sery, Hell; as also to attain everlasting Bliss and Happiness, in those bright and glorious Mansions of Eternal Rest and Happiness, Heaven; if so be a person will but Act such things as this Holy Mother Church prescribes, and under<g ref="char:EOLhyphen"/>go such punishments as is also by her prescribed, in case of neglect and disobedience to her Commands and Pre<g ref="char:EOLhyphen"/>cepts.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>But what of all this? Can't a Prince rest himself in this, <hi>viz.</hi> To trouble himself about Religion no farther than concerns his own Salvation, and so continue the Admini<g ref="char:EOLhyphen"/>stration of the Protestant Laws and Devotion in his King<g ref="char:EOLhyphen"/>dom, notwithstanding his own private Sentiments?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No truly, I think this can't consist with the Glory of a Crowned Head.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why not, I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why? have we not daily experience, that a Mor<g ref="char:EOLhyphen"/>tal most abject and of the meanest Rank, will be transported with Joy to see his Religion flourish; yea, and will endea<g ref="char:EOLhyphen"/>vour by all means possible, even sometimes beyond lawful, to promote his Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>But why should men concern themselves so much a<g ref="char:EOLhyphen"/>bout Religion, and every person so eager to promote his own Opinion, and so solicitous for the welfare of his professed Religion?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why? because his Religion is embraced as the very Darling of the chiefest of his delights.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>And why is it so?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Because it is that which affords him quietness and satisfaction to his Conscience in all respects, and leads him in the way to Eternal rest; so that he walks according to the Dictates of his Opinion, which having blinded his Con<g ref="char:EOLhyphen"/>science, becomes the Dictates of his Conscience.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why then you think a person does but according to the Dictates of his Conscience, when he seeks to promote his Religion?</p>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:96816:11"/>
+               <speaker>Eng.</speaker>
+               <p>Truly I cannot think otherwise.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Well, but is it not evident, that for some by respects of Self-Interest, as Gain, or the like sinister respects, some persons will even make Shipwrack of Conscience, so that they may attain their ends, and fulfil their lustful desires?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Yes, this indeed often happens; but then they are most miserable Varlets, and desperate, so to thwart the very Dictates of Conscience.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why so? why are they so miserable?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why, because abused Conscience is the worst of Fu<g ref="char:EOLhyphen"/>ries, and will condemn more than all the Juries of the World.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Well, but does a Prince do violence to his Consci<g ref="char:EOLhyphen"/>ence (he being of the Popish perswasion) if he does not en<g ref="char:EOLhyphen"/>deavour by all possible means to advance and promote his Religion?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Yes, and that the Pope will make him believe too, to his cost, by his Bulls, which shall continually bellow against him, being such an undutiful Son, and a Disserter of the Cause of his Holy Mother the Church, and also a Traytor to her Interest.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>No, no, it is not undutifulness to the Church, but his Nations peace, that makes him forbear to endea<g ref="char:EOLhyphen"/>vour the promotion of his Holy Mother Church.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>I cannot think but he'll be accused of lukewarmness in Religion, and pusillanimity, that for his Nations peace ruines his own, and is a whole Scene of War within himself.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why ruin his own Peace?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why? because he Acts contrary to the Dictates of his Conscience, daring not to promote and advance his Reli<g ref="char:EOLhyphen"/>gion; but sneaks upon a Throne, and in obedience to his fear shrinks from the service of his God: will not all Popish Princes, think you, deride at the feebleness of his Spirit, and the tame<g ref="char:EOLhyphen"/>ness of his Arm, that dares not attempt the Establishment of his Religion, being invested with Royal Authority, and having the Imperial Sword in his Hand, and the Reins of Government committed to him?</p>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:96816:11"/>
+               <speaker>Rom.</speaker>
+               <p>But what need a Prince be so much concerned at the pleasure or displeasure of other Nations, seeing he has the Love of his own Subjects, and he best knows the tem<g ref="char:EOLhyphen"/>per of his own People, and therefore behaves himself to<g ref="char:EOLhyphen"/>wards them accordingly; and it is perhaps his Pruden<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> sometimes to submit so far to his Subjects, as not to regard as it were his Prerogative, which by such as understand not what Circumstances he is under, may be interpreted no<g ref="char:EOLhyphen"/>thing but the effects of a poor and dejected Spirit?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Ay, but all Men will endeavour to Act according to their Principles.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why then, does not a Popish Prince, that suffers his Subjects to enjoy their Constituted Protestant Government, without endeavouring to introduce his own Religion, act contrary to his Principles?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Yes I think he does.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>How so, I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why so? the Principles he sucks from <hi>Rome,</hi> do in effect bid him Rife, Slay and Eat; and yet his Fear, yea, even his unkingly, if not unmanly Fear, makes him as it were fast and starve.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>No truly; the Clemency, and Mildness of a Prince towards his Subjects, is not to be derived from the fear of them, but from the Love and Compassion which he has to<g ref="char:EOLhyphen"/>wards them, being loth to disturb their Peace, by any need<g ref="char:EOLhyphen"/>less Injunctions or Mutations.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Love and Compassion in a Popish Prince towards Protestant Subjects! that's strange indeed; he must then relinquish the Roman Church, and so cease to be any lon<g ref="char:EOLhyphen"/>ger Popish, for that's quite contrary to Popish Principles.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Yea, but he may pretend Love, and act as if he had real Love to them, for some unknown and great advantage to himself.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Ay, that I know very well, that you Romanists are Artists at Counterfeit, and Hypocritical dealings, being ve<g ref="char:EOLhyphen"/>ry good experienced persons in all the tricks and curious Arts of deceit; but then when this double dealing, which you talk of, has attained its end, the vizor of Love will be
+<pb n="18" facs="tcp:96816:12"/>thrown aside, and then appears the Catholick in his Colours, what must become of poor Protestants then, when they are caught with the Nets and Gins of Romish Art? Woe be to 'em then, they must stand to the Mercy of Holy Church, which is certainly nothing but Cruelty.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Ay, but for a Prince to violate the constituted Laws of Government, and to spoil his Subjects of their just Li<g ref="char:EOLhyphen"/>berties, Rights and Properties, by Acts of Injustice, and Cruel Tyranny, is the ready way to his own ruin; for by this means he'll bring his Subjects into miserable Confusion and Destruction, which is always a forerunner of his own; for it is an undoubted Axiome, That the Princes and Peoples destruction are mutually prophetick of one another.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No, no: the Principles of Popery are of another Nature, than to esteem the promotion of its Religion cru<g ref="char:EOLhyphen"/>elty, let the means used be in themselves never so Barba<g ref="char:EOLhyphen"/>rous and Inhumane.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>But what then? suppose their Principles be so corrupt and pernicious to humane Society, as you talk of (in aggra<g ref="char:EOLhyphen"/>vating of which I see you have no small skill) cannot the very Humanity and Gentleness of the natural temperature of a Prince, incline him rather to Moderation and Lenity to<g ref="char:EOLhyphen"/>wards his Subjects, and so make him abhor to attempt the use of any Violence or Tyrannick Cruelty?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Truly, I think the fundamental Principles of Good<g ref="char:EOLhyphen"/>ness, <hi>viz.</hi> Justice and Mercy, may oversway a person, so as to restrain him from the practice of the contrary Vices, <hi>viz.</hi> Violence, Cruelty and Oppression.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Well then, why may not a Papist or Popish Prince be so far restrained by these principles of Goodness, as upon that account to forbear; yea, even to hate the practice of Violence and Cruelty, and that especially when the Consti<g ref="char:EOLhyphen"/>tution of his Government obliges him rather to Lenity, Justice and Mercy, and not to disturb his peaceful Subjects, by Inno<g ref="char:EOLhyphen"/>vations in Church or State?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Ay, but the Principles of Popery whisper other kind of interpretations into a Princes Ears, of Tyranny and Op<g ref="char:EOLhyphen"/>pression, when their Religion lies at Stake.</p>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:96816:12"/>
+               <speaker>Rom.</speaker>
+               <p>Why? what interpretation do we make, I pray you, of Tyrannick Cruelty?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why? that which in it's own Nature is absolutely Cruelty and Tyranny, you have quite changed into the contrary Vertues of Fortitude, and a high pitch of pious Zeal; esteeming nothing more becoming a Crowned Head, than a holy kind of Magnanimity and Valour, in using all the means that Religious Cruelty can invent, to promote the cause of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Ay, but will he not be esteemed a Prince of the greatest Tyranny and Barbarity imaginable, to use such needless violence to his peaceable Subjects?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No, I say his Actions will be so far from the impu<g ref="char:EOLhyphen"/>tation of Tyranny and Cruelty, that they will rather be esteemed the most Heroick Actions that possibly he could perform.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>And why so, I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why? because he employs the utmost of his Power, and uses all the means that a Crown can any ways make him capable of, to promote the Roman Cause.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>And what then?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>What then? he's a valiant Champion indeed, and needs no greater Atchievements to make him Glorious, than such noble Actions for the Churches cause, (though the actions in themselves be Cruelty and Tyranny.)</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Well, but who is't that will so much extol these his Actions, and put such a Crown of endless Fame upon his Head, for such Renowned and Heroick Actions?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Who is't? why it is those of his own perswasion, the Roman Brood, who will reward him with an Eternal Crown, for these his Noble Actions.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>But will not the Cries and Tears of his poor di<g ref="char:EOLhyphen"/>stressed Subjects spoil all the Contentment and Delight, that the Applauses and Praises of the whole Roman Monarchy can possibly afford him, extorting Commiseration and Pity from him at their so deplorable and lamentable Con<g ref="char:EOLhyphen"/>dition?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>What should he be troubled at, I pray you?</p>
+            </sp>
+            <sp>
+               <pb n="20" facs="tcp:96816:13"/>
+               <speaker>Rom.</speaker>
+               <p>At what? to see, I say, into what a ruined conditi<g ref="char:EOLhyphen"/>on he has brought his Subjects.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No, alas! he did nothing but what was according to the Dictates of his Conscience, and he's very well satisfi<g ref="char:EOLhyphen"/>ed as to the lawfulness of his Actions, thinking he did no<g ref="char:EOLhyphen"/>thing but what was his Duty to do, and therefore he has no reason to be troubled at the sight of their Calamities, though they lie wallowing in their own Blood, and though their Cities, Towns, and Castles be reduced to ruinous heaps, and all through his means.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why? what will he look upon such heaps of Destru<g ref="char:EOLhyphen"/>ction, as if he was not the least concerned in 'em?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Yes, why not?</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why not? methinks he should be startled at such abominable outrages, and with remorse of Conscience, be grieved to see such villainous and cruel Practices, and to hear such doleful Lamentations.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>If he be touched a little with Compassion, that, a<g ref="char:EOLhyphen"/>las! will quickly vanish; and he'l say that his Conscience tyed him to perform such Actions in Zeal to Holy Church, and in obedience to his Holy Father the Pope, and so his Religion must be made (as it is indeed) the Patron of all wickedness.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>But will he not then bring upon himself a Curse?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No, I trow not, but rather a Blessing.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why, who should confer a Blessing upon him, for acting such monstrous Cruelties as you talk of?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Who? why, the Pope, who will be his Almigh<g ref="char:EOLhyphen"/>ty Friend, being the undisputed Keeper of the Keys of Pa<g ref="char:EOLhyphen"/>radise, and will no doubt assign him no Common Diadem in Heaven, for so glorious a Task, as establishing the Romish Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>What then, he merits an Eternal Crown of Glo<g ref="char:EOLhyphen"/>ry, it seems, by being Valiant and Couragious in promo<g ref="char:EOLhyphen"/>ting the Roman Cause?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Yes, that he does: and whilest he has the wonder<g ref="char:EOLhyphen"/>working Merit for his Tutor, what's greater or more me<g ref="char:EOLhyphen"/>ritorious
+<pb n="21" facs="tcp:96816:13"/>Work to canonize him a Saint even of the first Magnitude, than the establishing his Religion, and con<g ref="char:EOLhyphen"/>version of an apostatized and heretical Kingdom?</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Well, but cannot the Romish Religion be esta<g ref="char:EOLhyphen"/>blished by preaching and praying, without using cruel Torments, to scare men, as it were, so as they shall be forced to embrace the Romish Doctrine?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No surely; Protestants are indued with more true Evangelical light, than so easily to embrace meer Foppe<g ref="char:EOLhyphen"/>ries and palpable erroneous Principles.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>But cannot a Prince then cause this Romish Reli<g ref="char:EOLhyphen"/>gion, only with Precepts▪ friendly Reasonings, and perswa<g ref="char:EOLhyphen"/>sions to be inculcated?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No indeed, no such matter, his Principles infuse other kind of things into his head.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why, what are they, I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why, they say, If these Hereticks will not be delu<g ref="char:EOLhyphen"/>ded by cunning Sophistry, and slye Equivocations; if, I say, they will not be perswaded by false flattery, and plausible deceitful Arguments, to deny their Reason, and so embrace Popery, they must be scourged, rack'd, and broil'd into the Fear of God, as they call it: And what greater advantage has any Prince to propagate his Religion, than a Popish has his? For, for its own propagation, it authorises him to divest himself of all Humanity, and to act worse than a Devil, that he may be a Saint. And thus whilst neither the Cries of Blood can deter him on the one side, and so no Tyran<g ref="char:EOLhyphen"/>ny come amiss to him; on the other, he has the undeniable assurance of the great Blessings of Eternity to encourage him: Who, think you, would not, with these advantages, be active with all his utmost vigour, and pride to rebuild <hi>Rome</hi>'s ruin<g ref="char:EOLhyphen"/>ed Walls, though he made his nearest, nay the Nations dear<g ref="char:EOLhyphen"/>est Blood their Cement.</p>
+               <p>Thus you see a Papist on a Throne has an unconfutable Vindication for all his proceedings.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>What? of what Nature soever, whether they be right or wrong, just or unjust, with Law or contrary to Law, humane or inhumane, must all be alike to him, what then must regulate his Actions?</p>
+            </sp>
+            <sp>
+               <pb n="22" facs="tcp:96816:14"/>
+               <speaker>Eng.</speaker>
+               <p>Why they must be regulated by the Laws of the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Church; and so if he can but by any means advance that Religion, he need not fear transgressing; nay, he can<g ref="char:EOLhyphen"/>not possibly commit any sin in the use of any sort of means towards the promoting of the Roman Cause, challenging a Commission even from Heaven for all that Cruelty dares act. And when the Enchantments of <hi>Rome</hi> have touch'd his Tongue with a Coal from her Altars, what do his En<g ref="char:EOLhyphen"/>thusiasms make him believe, but that the most savage and hellish Dooms that his blindest Zeal can pronounce, are on<g ref="char:EOLhyphen"/>ly the immediate Oracles of God: And all the Apology that a poor Nation can expect from him, is, He cannot help it.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Nay, but I cannot but believe but a popish Prince may forbear such strange Acts of Cruelty as you talk of, and permit the <hi>Protestant</hi> Government to continue: And that especially, if he be restrained from all power of introducing <hi>Popery,</hi> by the force of Laws which were purposely made to tye up his hands from attempting any such Innovations.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Ay, but then these Laws must ruine his <hi>Prerogative,</hi> and put the Executive power of the Laws into the hands of the <hi>People;</hi> and if it be so, there's certainly no Monarch will be so ill a <hi>Defender,</hi> and so weak a <hi>Champion</hi> for the Royal Dignity he wears, but will stand up for his <hi>Just Prerogative;</hi> and then he has a <hi>Just Plea</hi> to trample upon those Laws, which would bereave him of that <hi>invaluable Pearl</hi> justly be<g ref="char:EOLhyphen"/>longing to his <hi>Imperial Crown.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>But what need the <hi>Executive Power</hi> of the Laws fall into the Hands of the <hi>People,</hi> cannot the <hi>Prince</hi> keep that <hi>Power</hi> still to himself, exercising his own Authority in de<g ref="char:EOLhyphen"/>fending his Subjects from all both Foreign and Domestick Enemies, as also punishing all Malefactors, and persons of<g ref="char:EOLhyphen"/>fensive to the <hi>Liberties</hi> and <hi>Properties</hi> of his Subjects, accor<g ref="char:EOLhyphen"/>ding as the constituted Laws require?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>And who are the most potent and dangerous Ene<g ref="char:EOLhyphen"/>mies to a <hi>Protestant Government,</hi> I pray you? Are they not the Vermine of the <hi>Roman Church, viz.</hi> the <hi>Priests, Jesu<g ref="char:EOLhyphen"/>its, &amp;c?</hi> who having sworn Fealty to the See of <hi>Rome,</hi> and taken Orders in Foreign Seminaries, are the greatest Seducers
+<pb n="23" facs="tcp:96816:14"/>of the Kings Liege people, and the most notorious Incen<g ref="char:EOLhyphen"/>diaries and Subverters of the <hi>Protestant Christianity</hi> and <hi>Loy<g ref="char:EOLhyphen"/>alty;</hi> for which cause they are declared Traytors by several Laws, which Laws this <hi>Prince</hi> is to execute upon these most dangerous Enemies, in defence of his <hi>Protestant Subjects.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Well, and so he may cause the penal Laws to be put in execution against this Tribe of Wickedness and Mischief (as you call them) is there any inconveniency or harm like<g ref="char:EOLhyphen"/>ly to arise to him for his so doing? Nay rather, is it not for his greater Honour and Renown, to seek all means possible to suppress the most implacable and dangerous Enemies to the constituted <hi>Protestant</hi> Government which he is to defend? And then consequently, is it not for his own safety so to do?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>One would think so indeed. But then he being a <hi>Papist,</hi> and to inflict such grievous punishments upon those of his own <hi>Perswasion,</hi> and to bestow his favours upon those of a contrary Religion, <hi>viz.</hi> the <hi>Protestant,</hi> is a great absur<g ref="char:EOLhyphen"/>dity: And besides, his so doing will bring no small Mischief upon himself.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>But how, I pray you, does it appear to be a great absurdity in a <hi>Popish Prince</hi> to inflict punishments upon the <hi>Romish</hi> Rabble, as you call them; seeing, as you say, they are the very Pests of the Protestant Church and State, of which he is Governour and Defender, being their Prince, and his Prerogative claiming the Executive power of the Laws? And what absurdity is there also, if he showers down his fa<g ref="char:EOLhyphen"/>vours upon the Protestants, they being his Subjects, having sworn Allegiance to him, and committed themselves to his protection, and therefore may justly claim it, and so it be<g ref="char:EOLhyphen"/>comes his Duty to defend and protect the people commit<g ref="char:EOLhyphen"/>ted to his Charge, and effectually to deter and punish all those that shall endeavour to undermine and supplant their Religion or Liberties? <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>It is indeed a Princes Duty so to defend his Sub<g ref="char:EOLhyphen"/>jects, and offend their Enemies, as need shall require, for the preservation of their just Liberties, from the Usurpation of their insulting Enemies; and indeed in so doing he does no less preserve his own Prerogative and Honour.</p>
+            </sp>
+            <sp>
+               <pb n="24" facs="tcp:96816:15"/>
+               <speaker>Rom.</speaker>
+               <p>Well then, where's the Absurdity all this while, which you so much talked of?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why, in this, <hi>viz.</hi> A <hi>Popish Prince</hi> continuing the Jurisdiction, Honours and Preferments in the Hands of the <hi>Protestant Clergy,</hi> confers his favours and smiles on those very men, who by the Fundamentals of his own uncharitable Perswasion, are doomed to a certain State of Damnation.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Doom'd to a certain State of Damnation, why so?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why? You know, because they are none of the Limbs of Antichrist, or Members of the Romish Church, and therefore because they have the happiness to be none of her Viperous Brood, they must to Hell, there's no reme<g ref="char:EOLhyphen"/>dy, unless they'l Convert and believe Lies: Thus poor <hi>Pro<g ref="char:EOLhyphen"/>testants</hi> being esteemed as meer Abjects, and Condemned by his Holiness's bellowing Bulls to the lowest Hell; they are not worthy surely the least Favours, but rather the extream<g ref="char:EOLhyphen"/>est Tortures, Afflictions, and Miseries, that Jesuitical Cun<g ref="char:EOLhyphen"/>ning can invent, who are so far from shewing Mercy, that they rather esteem it the most meritorious Act imaginable, by any means to destroy 'em.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Well, and is this the Absurdity then, for a <hi>Popish</hi> Prince to bestow his Favours on Protestants, and his Frowns on his Fraternity the Papists?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Yes, does it not sound like an absurdity, for him to bestow his favours on those Persons, which he cordially be<g ref="char:EOLhyphen"/>lives do Preach and Teach, and lead his dear Papists in the direct way to Hell, and then at the same time not only to punish and persecute, but perhaps also to Imprison and Hang those very only Righteous Persons, who, from the bottom of his Soul, he believes can only open the Gates of Paradise? Is not this to accuse himself of Copying the old <hi>Jewish</hi> Cruelty? Nay, in one respect he out-goes their Crime; for he must Act that knowingly which they did ignorantly; for by the Dictates of his Religion he must be convinc'd, that in effect he does little less, than save a <hi>Barabbas,</hi> and Crucifie a Jesus.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why Save a <hi>Barabbas,</hi> and Crucifie a Jesus?</p>
+            </sp>
+            <sp>
+               <pb n="25" facs="tcp:96816:15"/>
+               <speaker>Eng.</speaker>
+               <p>Why? because his Principles teach him to count Protestans as bad, if not worse Malefactors than ever <hi>Barab<g ref="char:EOLhyphen"/>bas</hi> was, and on the contrary the Papists the most Pious and Devout Persons that live; and then will not this Prince, think you, be counted a <hi>Barbarian,</hi> that shall cherish and maintain the Dissenters from Truth, and punish and condemn the Pil<g ref="char:EOLhyphen"/>lars of Christianity and Proselytes of Heaven? Surely he'll be esteemed the basest of Men, nay, little less than a Monster.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>A Monster! why so?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why so? because his Composition must be so in<g ref="char:EOLhyphen"/>congruous, for his Hand and Heart must be of no kin to one another, the Hand acting quite contrary to the intenti<g ref="char:EOLhyphen"/>on of the Heart; nay, even that which it really condemns.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Very well, now you have endeavoured to shew how absurd it is for a Popish Prince to bestow his Favours upon his Protestant Subjects, and to Persecute the Romish Party with severe Penalties; let us hear what outward mischief he brings upon his person, in so doing; for you was a talking that he would make his person also liable to great danger and mischief, if he take that course in his Government, <hi>viz.</hi> of defending the Protestants, and suppressing the Papists: Pray how is that, and from whom is this mischief to pro<g ref="char:EOLhyphen"/>ceed, do you say?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>From whom? you might easily see from whom, if you were not blind; neither can I believe that you are ig<g ref="char:EOLhyphen"/>norant what kind of Persons they are which would be rea<g ref="char:EOLhyphen"/>dy to revenge their Cause.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Truly, I think I could have a near guess.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Yes, truly, I think so too; you do well to speak the Truth.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Why, who are they, say you?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Who are they? why, are they not the Emissaries of <hi>Rome?</hi> these wicked Persons, full fraught with all manner of Mischief, Malice and Revenge, who having the Devil for their Captain, dare attempt the Assassination of any the most Sacred Person, be he never so highly exalted in a most Glorious Throne, and invested with Royal power and Authority.</p>
+            </sp>
+            <sp>
+               <pb n="26" facs="tcp:96816:16"/>
+               <speaker>Rom.</speaker>
+               <p>Why, is there any sort of Men that dare be so strangely desperate, as to hazzard their own Lives, in at<g ref="char:EOLhyphen"/>tempting such detestable Wickedness and abominable Trea<g ref="char:EOLhyphen"/>son? Surely he cannot be accounted less than a mad Man, that will thus venturously hazzard both a Mortal and Im<g ref="char:EOLhyphen"/>mortal Life too.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why talk you of hazzarding his Immortal Happi<g ref="char:EOLhyphen"/>ness? you know he has his pardon ratified to him before hand from his Holiness, who has the Keys of Heaven and Hell; who having Excommunicated a Prince by his Bulls, leaves him as a cast away, and not worthy to live, because of some neglect or disobedience or other, to his unjust and cruel commands, and so being Excommunicated, he gives Com<g ref="char:EOLhyphen"/>mission to the Romish Crew, those Sons of <hi>Belial,</hi> to Assassinate this Prince either by Poyson, or Stabbing, or Pistolling, or any the like Arts, which they are well vers'd in; counting it an Act so far from hazzarding Eternal happiness, that he rather esteems it an Act most meritorious; and for it he shall be canonized one of the most glorious Saints that Heaven is capable of.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Ay, and why so, I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Why? because he has perform'd such a glorious Act, in dispatching such a disobedient Son of the Church, and satisfying his thirsty Holiness with the so much long'd for blood of such a graceless and dangerous Son, he being not only not a promoter of the Romish Cause, but also an ex<g ref="char:EOLhyphen"/>tream Persecutor of those Religious Proselytes, and so a de<g ref="char:EOLhyphen"/>stroyer of the Roman Church; and is there not reason e<g ref="char:EOLhyphen"/>nough then to cut him off think you? Certainly his Holiness judges it both expedient and necessary so to do; and who of all his followers will fear to perpetrate such a Glorious and Meritorious Act; if he be but a little inspired with a Romish Spirit of Revenge, for his Principles (those Hellish Princ<g ref="char:EOLhyphen"/>ples I mean of that Antichristian Religion) tell him that he is Commissioned from Heaven, and if he should chance to lose his life for it: Alas! it is only a Mortal life for an Immor<g ref="char:EOLhyphen"/>tal; and as for his Name it shall be had in everlasting re<g ref="char:EOLhyphen"/>membrance, being registred for a Saint of a Scarlet Dye, and branded with an indelible Character of Blood: Thus you see
+<pb n="27" facs="tcp:96816:16"/>that if a Prince of the Romish perswasion be not careful to act according to the Principles of his Church, and do but a little displease the Sons of <hi>Rome,</hi> they can easily procure the sentence of Excommunication against him, and then they'l wreak their Malice and Revenge upon his Person as they please, for they have Authority and Reason enough so to do; and so it appears that the Prince must either relinquish his Religi<g ref="char:EOLhyphen"/>on, and so bid open defiance to the Romish Church, or else he must act according to his Principles, and defend and Countenace the Romish Fraternity.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>What? then the Prince must stand in awe of his Subjects, it seems?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Yes that he must, or else his Holiness will make him, for he is resolved that he shall no longer wear his Royal Crown, than he will be Subject, and act according to those most wicked and enormous Principles, which his Darling Jesuites have infus'd into his Head; and do you think now that a Prince of the Romish perswasion, brings not his Person into great and imminent danger, by suppressing the Romish Vermin, that Church usurping a Power of De<g ref="char:EOLhyphen"/>posing, and Assassinating of Kings, Princes, and Empe<g ref="char:EOLhyphen"/>rours, and will execute this their pretended Authority, if they do but a little cross their Interest.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>But why cannot the Prince then suffer the Mem<g ref="char:EOLhyphen"/>bers of the Roman Church to live quietly, notwithstanding the continuance of the Protestant Government?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No surely, if the Protestant Government must be maintained, he must act offensively, as well, as defen<g ref="char:EOLhyphen"/>sively; for will it not encourage them, think you, to see a Champion of their own Brood upon the Throne, to at<g ref="char:EOLhyphen"/>tempt some wicked and mischievous design against the Pro<g ref="char:EOLhyphen"/>testant established Government; seeing the Prince must not openly suppress, but maintain it, they'l be sure to use the utmost of their endeavours to undermine it secretly; be<g ref="char:EOLhyphen"/>ing sure, if not of publick Patronage, yet at least of private Indulgence, Connivance and Mercy? For the very name of a Popish Monarch has the influence of the Sun in <hi>Egypt,</hi> daily warming the Popish Mud into Monsters, even until
+<pb n="28" facs="tcp:96816:17"/>they are become our Protestants most threatning and for<g ref="char:EOLhyphen"/>midable Enemies; and then if the Protestants must live qui<g ref="char:EOLhyphen"/>etly in the enjoyments of their Laws, Religion, and Liber<g ref="char:EOLhyphen"/>ties; these worst of Enemies must be punished, supprest, and extirpated; for their Pride, Covetousness, and Cruel<g ref="char:EOLhyphen"/>ty, will not suffer the Protestants to enjoy their Religion, whilst their own is, as it were, trodden under foot, and de<g ref="char:EOLhyphen"/>claimed against, as most Pernicious and Destructive of all Goodness: So that it appears that the Roman Spirit, with which they are inspired, will neither suffer themselves to be quiet and peaceable, nor yet suffer them to let others live quietly; especially those which are Hereticks too: And so these Roman Zealots must necessarily be repuls'd; or else they'l set the whole World on Fire, in promotion of their pre<g ref="char:EOLhyphen"/>tended Holy Cause; and they'l claim protection too from that Prince, which they know is tainted with their wicked Principles; neither will his Principles suffer him to deny their desires, though never so cruel, when their Religion lies at Stake, notwithstanding all his Obligations to the con<g ref="char:EOLhyphen"/>trary: Nay, he dares not, for he knows his Holiness can Consecrate Daggers that shall revenge the Churches Cause, or else tender to him a Cup of poysonous Nectar, for the Health of Holy Church.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Well, but suppose then all this to be true, which you have endeavoured to maintain, <hi>viz.</hi> That a Popish Prince must necessarily promote and maintain his Religion; nay, and that he's bound to do it by the Dictates of his Conscience, Corrupted and Blinded, as you say, by the wicked Principles of Popery: But then, I say, suppose this Prince be bound by his Coronation Oath to defend and pro<g ref="char:EOLhyphen"/>tect the Protestant Cause, Religion and Government, and so to punish and suppress its Enemies: Why, I say, may not this Prince, in veneration of that his Coronation Oath, de<g ref="char:EOLhyphen"/>fend the Protestant Religion, notwithstanding all his private Regret, and Inclinations to the contrary? When rather than incur the infamous brand of Perjury, he shall tye himself to the performance of his Oath, which not the force of Religion it self shall violate; and then, what reason can
+<pb n="29" facs="tcp:96816:17"/>possibly be pretended, that after so solemn an Oath, he should not be believed? Certainly there's no greater reason can be given, why we should believe a person, than when he takes the Great God of Heaven and Earth to witness his sin<g ref="char:EOLhyphen"/>cerity. For does not the breach of an Oath bring a Curse upon perfideous persons, that dare make such solemn <hi>Protestations,</hi> and never care to perform them; this is certainly the way to bring everlasting shame upon his Name, so treacherously to betray his trust; as by daily experience we see, that Curses attend those persons that regard not to perform their solemn <hi>Protestations;</hi> for they engage Heaven as it were, against them: and how can it be imagin'd then, that a <hi>prince</hi> should be so treacherous, as to betray a Nation? would not this be to bring the Curses of Heaven and Earth upon him, <hi>viz.</hi> of God and Men? And how then can he expect <hi>Prosperity</hi> in his undertakings, or in any the least Actions; but rather Misery, Confusion, and Disappointment? Besides, will not the miserable Calamities of his <hi>People</hi> lye heavy upon his Conscience, when their Misery is procured by means of his Treachery?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Truly, one would think that there is no greater Con<g ref="char:EOLhyphen"/>firmation of a <hi>Promise,</hi> than when it is ratified by an Oath, and that then there's reason enough to believe the person promising.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Well then, why are you so faithless, as not to be<g ref="char:EOLhyphen"/>lieve a <hi>Prince</hi> upon his solemn <hi>Protestations?</hi> What would you have him to do, to satisfie you?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Nay, but here's the Misery; he is of a Religion that can Absolve Subjects from their Allegiance to an Hereti<g ref="char:EOLhyphen"/>cal Excommunicated <hi>Prince;</hi> nay, depose him, and take his very Crown away; and much more then, can release a King from his Faith to an Excommunicated Heretical <hi>People;</hi> for the ties of Vassals to Monarchs, are greater than those of Monarchs to Vassals: And this is a general Maxim of the Roman Church, <hi>viz.</hi> That there's no Faith to be kept with Hereticks, which has been sufficiently evinc'd to be a Truth, by sad and woful experience; so that let a <hi>Pa<g ref="char:EOLhyphen"/>pist</hi> make ne're so great and solemn <hi>Protestations,</hi> yet he'll
+<pb n="30" facs="tcp:96816:18"/>soon find some Jesuitical loop-hole or other to evade, when his own Self-interest, or his Religion lies at stake.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>But then, I say, will he not heap upon himself Curses?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No surely, he shall be Crown'd with Blessings enough from his Holiness, and his Sons; and what's matter then what the Heretical Rabble say, seeing he has Religion to drive the Royal <hi>Jehu</hi> on; even that Religion which through all Ages has set all Nations in a Flame, yet never confesses it self in the wrong? Besides, how can a <hi>Popish Prince,</hi> in attempting to establish his own Religion, believe that he does his Subjects an Injustice, in that very thing in which he does God Justice, or think he injures them, when he does their Souls right? No, no, alas! he cannot be per<g ref="char:EOLhyphen"/>swaded to believe that he does injury to any, but on the con<g ref="char:EOLhyphen"/>trary, the greatest good; and when <hi>Rome,</hi> by her insinua<g ref="char:EOLhyphen"/>ting Witchcrafts, has lifted the full Bowl of Inchantments to his Lips, what will his Holy Enthusiastick Rage do less, than drown a whole Nation in Blood, and yet think he does God good Service too, being so far from being sorry for it, that he rather sings <hi>te Deum</hi> to a bleeding Nation?</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>But this surely is to play a Second <hi>Nero?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>No, no, no such matter, he's so far from tuneing his Joys to the Tyrannick <hi>Nero</hi>'s Harp; that he rather thinks he makes <hi>Davids</hi> milder and more Sacred Lyre his Melody.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Surely he must be a strange hard hearted Person in<g ref="char:EOLhyphen"/>deed; nay, even a Monster of Men, that cannot be mo<g ref="char:EOLhyphen"/>ved to <hi>Pity</hi> and <hi>Compassion,</hi> at the sight and cry of such mi<g ref="char:EOLhyphen"/>serable Calamities as you talk of.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Ay, but the propagation of Religion, and the Glo<g ref="char:EOLhyphen"/>ry of God, as he calls it, are the very Trumpets that dea<g ref="char:EOLhyphen"/>fen all the feeble cries of Blood, and drown the dy<g ref="char:EOLhyphen"/>ing groans of the miserable oppressed and distressed He<g ref="char:EOLhyphen"/>reticks, as they must be called.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Well, but after all this, methinks his very Glory should withhold him from so much Cruelty, (if his Oath cannot) considering how much more it would be for his immortal
+<pb n="31" facs="tcp:96816:18"/>Honour to have the <hi>Ʋniversal Prayers,</hi> than the Curses of a Nation; and also one would think, a King should rather endeavour to win the Hearts, than the hatred of his <hi>Peo<g ref="char:EOLhyphen"/>ple,</hi> which certainly this dis-joynting the whole Harmony of a World will procure him; certainly such a business will be so ungrateful and odious to him, that no Religi<g ref="char:EOLhyphen"/>on whatsoever can be able to put him upon acting such ex<g ref="char:EOLhyphen"/>tream Cruelties?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>His Glory! pray what's the Glory of a <hi>Papist?</hi> Is it not to promote <hi>Romes</hi> Interest? Certainly there's nothing so base or abject in it self, that a Papist will refuse to do; nay, although he be a King; neither is there that shape or Hy<g ref="char:EOLhyphen"/>pocrisie so scandalous, which he'l refuse to assume, when <hi>Rome,</hi> or <hi>Rome's</hi> Interest shall Command. And as for the ha<g ref="char:EOLhyphen"/>tred of his people, as I said before, he cares not a Button for that, so long as Heaven, Conscience, and all the <hi>Romish</hi> Crew give sufficient testimony of the Justness and Integrity of his proceedings; and is not this Glory enough, think you, to have the general applause of the best of men, for so the Sons of <hi>Rome</hi> are accounted of their Brethren?</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Well, but to proceed again, there may be such a general and universal detestation of Popery amongst his People, that it may be impossible for him any ways to at<g ref="char:EOLhyphen"/>tempt to introduce it, and so being utterly deterred from such an attempt, he may suffer the Protestant Government to continue undisturb'd.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>What of all this, I pray you? his Will still remains the same to promote Popery, and will as occasion serves use the means to promote it; although perhaps presently he cannot bring his enterprises to pass, he'l soon break through all difficulties, being once arm'd with advantage; neither can the Laws in any sort bind a Popish Prince, when the very first advance of the Popes Supremacy introduces that higher Power, even those Canonick Ecclesiastical Laws, which no Secular, or any Temporal Court can or may con<g ref="char:EOLhyphen"/>troul. Laws that shall declare, not only all the Statutes and Acts made against the Dignity of Mother Church, Void and Null; but the very Law-makers themselves as Hereticks,
+<pb n="32" facs="tcp:96816:19"/>wholly uncapable of ever having any right of making such Laws. And no doubt then, but the Fire that burns those He<g ref="char:EOLhyphen"/>retick Law-makers, shall give their Laws the same Martyr<g ref="char:EOLhyphen"/>dom.</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>Certainly our Religion is the unhappiest that ever the World had, to make a Prince so formidable as you talk of; but truly, I have a better Opinion of it than so, and do verily believe, that it is as great a Promoter of true Vertue and Goodness, as any other your noval Opinions, or Pro<g ref="char:EOLhyphen"/>testant Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>A Promoter of Vertue! Yes indeed, your Vertu<g ref="char:EOLhyphen"/>ous Church, for whose sake her Sons must wade through a Sea of Blood, rather than see her slighted or disregard<g ref="char:EOLhyphen"/>ed, and never question whether the means to promote or protect her be Lawful or no; only this, whether <hi>Rome's</hi> In<g ref="char:EOLhyphen"/>terest lies at Stake or no; for it is that which must give suf<g ref="char:EOLhyphen"/>ficient Warrant to the Means: Neither can there be any thing esteemed Cruelty or Tyranny, when her Interest is the End: Nay, let a Prince be otherwise never so Temperate, never so Friendly, Just, or Honest; alas! what do all these his Vertues signifie? They must be but the Hin<g ref="char:EOLhyphen"/>ges that must open the Gates to <hi>Rome,</hi> when Superstition once rules the Day. As suppose he be indued with fortitude, what does that do but make him more daring and ad<g ref="char:EOLhyphen"/>venturous, in pushing on the Cause of <hi>Rome,</hi> and with a more manly and undaunted Patience bear all Oppositi<g ref="char:EOLhyphen"/>ons he meets in the way. So likewise, if he be a Man of Justice, that still makes for <hi>Rome;</hi> for whilst he be<g ref="char:EOLhyphen"/>lieves the Pope to be Christ's lawful Vicar, no doubt but he'll think it as much the Duty of his Christianity, to give the Pope his right, as to take his own; and will judge the Popes Restauration as great a piece of Justice, as his own Coronation; if he be Master of Temperance, and can bridle his Passions, that's still as bad; for a Man that can govern his Passions, has always the firmest and steadiest Resolutions, which shall certainly be for <hi>Rome's</hi> Cause. Thus must all true Vertue be made to speak and act for <hi>Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="33" facs="tcp:96816:19"/>
+               <speaker>Rom.</speaker>
+               <p>Nay, but is not Religion, consi<g ref="char:EOLhyphen"/>dered only in a Politick sense, the chief Supporter of Civil Government?</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Yes, it may be so: But how does that appear?</p>
+            </sp>
+            <sp>
+               <speaker>Rom.</speaker>
+               <p>How? Because the fear of Corpo<g ref="char:EOLhyphen"/>ral Punishments; nay, of Death it self, would often prove insufficient, to deter Men from refusing Obedience to their Su<g ref="char:EOLhyphen"/>periours, or from breaking their Laws, without those stronger Ties of Hope of Re<g ref="char:EOLhyphen"/>ward, and Fear of Punishment in another Life.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Well, but your Church teaches Men to break all Laws, for the promotion of their Religion, and so they shall gain E<g ref="char:EOLhyphen"/>ternal Life; as also, a Prince to trample up<g ref="char:EOLhyphen"/>on all Laws made in Opposition to Holy Church; so that it evidently appears, that your Religion has quite contrary Effects, even in producing most fatal Disorders; nay, and even the Dissolution of Govern<g ref="char:EOLhyphen"/>ment, where the Prince and People are of different Religions; so that it is impossible, that a Prince should signifie any thing to<g ref="char:EOLhyphen"/>wards the support of the Peoples Religion, being himself of another; nor would it ever be believed, if he could: And how can that Government subsist, where the People are unanimously possest with a be<g ref="char:EOLhyphen"/>lief, that the Prince is incapable of prote<g ref="char:EOLhyphen"/>cting
+<pb n="34" facs="tcp:96816:20"/>them in that, which, for the most part, they value above all other Conside<g ref="char:EOLhyphen"/>rations?</p>
+               <p>Thus does it not appear, that the Romish Religion is worse than Atheistical? For an Atheist, when he exercises Tyranny and Cruelty, is not spurr'd on in hope of Reward in another Life, because he believes neither one, nor the other, but only Acts despe<g ref="char:EOLhyphen"/>rately, to satisfie his Lust and Passion; but a Papist Acts in hope of Reward in another Life, and to satisfie his Conscience too. O abominable Wickedness! O blind Zeal, that calls Evil Good! The Great and Good Lord of Heaven and Earth, deliver us out of the Hands of these most wicked devouring Harpies, whose Mercy is ex<g ref="char:EOLhyphen"/>treamest Cruelty.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96816:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
